@@ -25,6 +25,5 @@ New hacks land here the day they go up on the site. Star the repo to get them in
 ## Related
 
 - [ClaudeTwin](https://github.com/deadlydiamond/claudetwin): one memory for your company and personal Claude accounts.
-- [TwinBridge](https://github.com/deadlydiamond/twinbridge): handoffs between two Claude accounts from a server you run yourself.
 
 By [Omer Bin Saleem](https://www.omerbinsaleem.com/about/). MIT.
